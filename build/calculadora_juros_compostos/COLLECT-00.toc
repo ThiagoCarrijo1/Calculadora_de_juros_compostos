@@ -1,6 +1,6 @@
 ([('calculadora_juros_compostos.exe',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\calculadora_juros_compostos.exe',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\calculadora_juros_compostos.exe',
    'EXECUTABLE'),
   ('python311.dll',
    'C:\\Users\\Thiago '
@@ -44,5 +44,5 @@
    'BINARY'),
   ('base_library.zip',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\base_library.zip',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\base_library.zip',
    'DATA')],)

@@ -1,5 +1,5 @@
 ('C:\\Users\\Thiago '
- 'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\calculadora_juros_compostos.pkg',
+ 'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\calculadora_juros_compostos.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -12,27 +12,27 @@
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\PYZ-00.pyz',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\struct.pyc',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod01_archive.pyc',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod02_importers.pyc',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod03_ctypes.pyc',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod04_pywin32.pyc',
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\Thiago '
@@ -44,10 +44,54 @@
    'PYSOURCE'),
   ('calculadora_juros_compostos',
    'C:\\Users\\Thiago '
-   'C\\Desktop\\caculadora_juros_compostos\\calculadora_juros_compostos.py',
-   'PYSOURCE')],
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\calculadora_juros_compostos.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Thiago '
+   'C\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Thiago '
+   'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\base_library.zip',
+   'DATA')],
  'python311.dll',
- True,
+ False,
  False,
  False,
  [],

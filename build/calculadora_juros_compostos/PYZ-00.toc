@@ -1,5 +1,5 @@
 ('C:\\Users\\Thiago '
- 'C\\Desktop\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\PYZ-00.pyz',
+ 'C\\Documents\\EstudoProgramação\\Python\\caculadora_juros_compostos\\build\\calculadora_juros_compostos\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\Thiago '
    'C\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
