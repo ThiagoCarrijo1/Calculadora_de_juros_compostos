@@ -1,0 +1,3 @@
+Com este programa você conseguira calcular juros compostos com capital inicial, taxa de juros, aportes mensais e qualquer quantidade em meses desejada de forma simples e muito fácil. Tendo os resultados de total em valor no final do tempo de investimento, valor aportado e valor em juros rendidos durante todo o período.
+
+Faço suas simulações de juros compostos e divirta-se contemplando o poder dos juros compostos, uma das maiores maravilhas do Universo.
