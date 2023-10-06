@@ -10,7 +10,6 @@ valor_final = capital_porcentagem + aporte_mensal
 
 # looping de repetição while para fazer mês a mês o calculo de porcentagem do valor inicial com o aporte mensal
 contador = 1
-
 while contador < periodo_mensal:
     valor_final = valor_final + (taxa_juros_mensal * valor_final / 100)
     valor_final = valor_final + aporte_mensal
